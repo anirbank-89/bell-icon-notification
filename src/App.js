@@ -15,10 +15,6 @@ function App() {
   const [user, setuser] = useState("");
 
   useEffect(() => {
-    //
-  }, []);
-
-  useEffect(() => {
     socket.emit("addNewUser", user);
   }, [socket, user]);
 
