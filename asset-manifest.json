@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bell-icon-notification/static/css/main.c326cf41.css",
-    "main.js": "/bell-icon-notification/static/js/main.f5aa4795.js",
+    "main.js": "/bell-icon-notification/static/js/main.dad3ab5a.js",
     "static/js/787.92f3b803.chunk.js": "/bell-icon-notification/static/js/787.92f3b803.chunk.js",
     "static/media/bell-icons-16616.png": "/bell-icon-notification/static/media/bell-icons-16616.0f8f83e68124daf0c420.png",
     "static/media/heart-icon-3335.png": "/bell-icon-notification/static/media/heart-icon-3335.b3fbc94a93a23fb22f62.png",
@@ -12,11 +12,11 @@
     "static/media/message-icon-png-14919.png": "/bell-icon-notification/static/media/message-icon-png-14919.d4b655a81077182f2030.png",
     "index.html": "/bell-icon-notification/index.html",
     "main.c326cf41.css.map": "/bell-icon-notification/static/css/main.c326cf41.css.map",
-    "main.f5aa4795.js.map": "/bell-icon-notification/static/js/main.f5aa4795.js.map",
+    "main.dad3ab5a.js.map": "/bell-icon-notification/static/js/main.dad3ab5a.js.map",
     "787.92f3b803.chunk.js.map": "/bell-icon-notification/static/js/787.92f3b803.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c326cf41.css",
-    "static/js/main.f5aa4795.js"
+    "static/js/main.dad3ab5a.js"
   ]
 }
