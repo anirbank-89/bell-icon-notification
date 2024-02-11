@@ -22,7 +22,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-        cache-dependency-path: '**/yarn.lock' # THIS PATTERN did the trick for me.
+        cache-dependency-path: 'yarn.lock' # THIS PATTERN did the trick for me.
     - name: Install dependencies
       run: |
           if [ -e yarn.lock ]; then
