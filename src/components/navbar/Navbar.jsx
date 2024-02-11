@@ -8,7 +8,6 @@ import Settings from "../../img/hard-hat-icon-21019.png";
 import "./styles.css";
 
 const Navbar = ({ socket }) => {
-  console.log("socket",socket);
   const [notifications, setnotifications] = useState([]);
   const [open, setopen] = useState(false);
 

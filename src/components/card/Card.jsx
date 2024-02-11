@@ -10,7 +10,6 @@ import Info from "../../img/information-icon-6061.png";
 import "./styles.css";
 
 const Card = ({ post, socket, user }) => {
-  console.log("post",post);
   const [liked, setliked] = useState(false);
 
   const handleLike = (type) => {
